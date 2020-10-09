@@ -10,7 +10,7 @@ namespace DEMO_Github
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("coucou");
         }
     }
 }
